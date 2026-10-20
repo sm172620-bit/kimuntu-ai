@@ -29,6 +29,7 @@ Details and limitations: [`docs/interpretation.md`](docs/interpretation.md).
 │  ├─ categories.md             2. classification categories
 │  ├─ architecture.md/.mmd/.png 3. architecture diagram and explanation
 │  ├─ interpretation.md         7. interpretation and Week 2 improvements
+│  ├─ team_roles.md             proposed (random) role allocation for the group, to be confirmed
 │  └─ individual_contribution.md 8. individual contribution (template, to be completed)
 ├─ data/
 │  ├─ README.md                 4. data sources, licences, preprocessing

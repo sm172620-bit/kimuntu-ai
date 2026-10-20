@@ -14,21 +14,24 @@
 
 ## Group members
 
-| Name | Assigned role |
+Roles are a **proposal, assigned at random**, for members to confirm or swap. See
+`docs/team_roles.md` for the planned responsibilities of each role.
+
+| Name | Proposed role (to be confirmed) |
 |---|---|
-| KAZIBWE BENJAMIN | `[PLACEHOLDER]` |
-| NAMUSANA REBECCA | `[PLACEHOLDER]` |
-| CHOL MANGONG AJAL BOL | `[PLACEHOLDER]` |
-| KAWUMA MICHAEL | `[PLACEHOLDER]` |
-| Mustapha suleiman Ali | `[PLACEHOLDER]` |
-| NAZIF SABO DANLADI | `[PLACEHOLDER]` |
-| Henok Tesfahiwet Lbab Fidel | `[PLACEHOLDER]` |
-| BIYINZIKA EMMANUEL ONYUTA | `[PLACEHOLDER]` |
-| TWIJUKYE DISMAS | `[PLACEHOLDER]` |
-| NASSEJJE RACHEAL | `[PLACEHOLDER]` |
-| ATUHAIRE LYNNET | `[PLACEHOLDER]` |
-| TUGUME ANDREW | `[PLACEHOLDER]` |
-| Baboucarr A Bobb | `[PLACEHOLDER]` |
+| KAZIBWE BENJAMIN | Project coordinator and employer liaison |
+| NAMUSANA REBECCA | Recommendation relevance testing |
+| CHOL MANGONG AJAL BOL | Data lead |
+| KAWUMA MICHAEL | Legal knowledge sources and retrieval |
+| Mustapha suleiman Ali | Integration and API |
+| NAZIF SABO DANLADI | Legal decision support lead |
+| Henok Tesfahiwet Lbab Fidel | Text classifier lead |
+| BIYINZIKA EMMANUEL ONYUTA | Data preparation and labelling |
+| TWIJUKYE DISMAS | Safety, testing and quality assurance |
+| NASSEJJE RACHEAL | Chatbot lead |
+| ATUHAIRE LYNNET | Recommendation system lead |
+| TUGUME ANDREW | Model evaluation and error analysis |
+| Baboucarr A Bobb | Requirements and documentation lead |
 
 ## My specific contribution
 

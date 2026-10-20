@@ -332,6 +332,8 @@ def main():
     doc.add_paragraph("This report and the repository it describes form the complete group output for "
                       "Week 1. The individual statement below must be completed by the student.")
     add_markdown(doc, ROOT / "docs" / "individual_contribution.md")
+    doc.add_heading("Proposed team role allocation", level=2)
+    add_markdown(doc, ROOT / "docs" / "team_roles.md")
     doc.add_heading("Evidence: Git commit history", level=2)
     add_git_history(doc)
     doc.add_page_break()
