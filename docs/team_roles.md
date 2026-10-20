@@ -1,9 +1,8 @@
-# Proposed Team Role Allocation (to be confirmed by the group)
+# Team Role Allocation
 
-> **Status: PROPOSAL.** These roles were assigned **at random** so the group has a starting point.
+> **Status: AGREED by the group.** The roles were assigned **at random** and accepted as they are.
 > They describe **planned** responsibilities for the 4-week project, not work already done.
-> Each member should confirm, swap or change their role in a group meeting. Each member must still
-> write their **own** contribution statement describing what they actually did.
+> Each member must still write their **own** contribution statement describing what they actually did.
 
 **How the roles were assigned:** the 13 roles below were matched to the 13 members with a seeded
 random shuffle (`random.Random(2026).shuffle`, Python), so the allocation is fair and reproducible.
@@ -11,7 +10,7 @@ random shuffle (`random.Random(2026).shuffle`, Python), so the allocation is fai
 The roles cover the four workstreams in the lecturer note (text classification, legal decision
 support, recommendation system, chatbot) plus the shared work every project needs.
 
-| # | Proposed role | Workstream | Planned responsibilities | Assigned to |
+| # | Role | Workstream | Planned responsibilities | Assigned to |
 |---|---|---|---|---|
 | 1 | Project coordinator and employer liaison | All | Run group meetings, track the plan, lead communication with Kimuntu Power Inc. and the lecturer, work through the employer discussion checklist | KAZIBWE BENJAMIN |
 | 2 | Requirements and documentation lead | All | Record agreed requirements and decisions, maintain the docs and the Word report, keep the README current | Baboucarr A Bobb |

@@ -14,10 +14,10 @@
 
 ## Group members
 
-Roles are a **proposal, assigned at random**, for members to confirm or swap. See
-`docs/team_roles.md` for the planned responsibilities of each role.
+Roles were assigned at random and **agreed by the group**. See `docs/team_roles.md` for the
+planned responsibilities of each role.
 
-| Name | Proposed role (to be confirmed) |
+| Name | Agreed role |
 |---|---|
 | KAZIBWE BENJAMIN | Project coordinator and employer liaison |
 | NAMUSANA REBECCA | Recommendation relevance testing |
