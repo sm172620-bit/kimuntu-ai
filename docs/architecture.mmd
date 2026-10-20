@@ -1,0 +1,13 @@
+flowchart TD
+    U[User query<br/>English text] --> C[1. Text Classifier<br/>TF-IDF + Logistic Regression<br/>returns category, confidence, top-3]
+    C --> G{Safety gate<br/>out-of-scope OR<br/>confidence below threshold?}
+    G -- yes --> CL[Clarify / refuse / refer<br/>to a professional]
+    G -- no --> R[2. Information Retrieval<br/>approved sources only<br/>filtered by category]
+    R --> D[3. Legal Decision Support<br/>issue, relevant factors,<br/>possible next steps]
+    D --> E{Escalation rule?<br/>e.g. criminal, safety risk,<br/>missing jurisdiction}
+    E -- yes --> CL
+    E -- no --> REC[4. Recommendation System<br/>category-keyed rules first<br/>resources, documents, services]
+    REC --> CH[5. Chatbot Response<br/>shows earlier outputs + sources<br/>+ disclaimer]
+    CL --> CH
+    KB[(Approved legal sources<br/>e.g. ULII - pending approval)] -.-> R
+    RES[(Kimuntu resources<br/>and services catalogue)] -.-> REC
