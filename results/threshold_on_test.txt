@@ -1,0 +1,3 @@
+threshold=0.35
+coverage=0.9142
+accepted_accuracy=0.9052

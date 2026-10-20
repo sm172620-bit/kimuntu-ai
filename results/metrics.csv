@@ -1,0 +1,4 @@
+subset,n,accuracy,precision_macro,recall_macro,f1_macro,precision_weighted,recall_weighted,f1_weighted
+all_test,1061,0.8652,0.8136,0.7924,0.8020,0.8650,0.8652,0.8644
+test_law_stackexchange,992,0.8669,0.7543,0.7344,0.7432,0.8686,0.8669,0.8669
+test_synthetic,69,0.8406,0.8503,0.8393,0.8362,0.8525,0.8406,0.8385

@@ -1,0 +1,9 @@
+business_commercial: business, company, llc, corporation, profit, register, corporate, businesses, ceo, shares, product, corporations, trading, inc, companies
+consumer_contract: contract, debt, contracts, agreement, consumer, warranty, party, contractor, refund, customer, price, binding, terms, breach, promise
+criminal: police, criminal, crime, arrested, officer, murder, guilty, theft, trial, assault, charged, crimes, arrest, charges, jail
+employment_labour: employer, employment, job, work, employees, employee, company, workplace, discrimination, worked, salary, boss, hire, workers, jobs
+family: marriage, divorce, child, married, children, parents, husband, custody, support, parent, court, ex, divorced, marry, wife
+housing_tenancy: landlord, lease, tenant, rent, apartment, rental, tenants, tenancy, landlords, renting, moved, rented, property, housing, notice
+land_property: land, house, hoa, property, owner, real, deed, association, easement, fence, condo, properties, mortgage, estate, home
+other_out_of_scope: what, how, help, richest, joke, london, good, photosynthesis, morning, today, cement, recipe, uganda, kenya, puppy
+succession_inheritance: will, estate, trust, inherit, inheritance, probate, late, died, beneficiaries, dies, executor, death, beneficiary, wills, inherited
