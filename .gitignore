@@ -1,0 +1,14 @@
+# Course documents are not redistributed
+*.pdf
+
+# Python / environment
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Raw downloaded data (re-created by src/prepare_data.py)
+data/raw/
+
+# Word lock files
+~$*.docx
