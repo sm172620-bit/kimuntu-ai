@@ -1,0 +1,11 @@
+# Pinned versions used to produce the committed results (Python 3.14, Windows).
+# Core: data preparation, training, evaluation and prediction
+scikit-learn==1.9.1
+pandas==3.0.6
+numpy==2.5.4
+matplotlib==3.11.2
+joblib==1.6.0
+# Report and notebook tooling
+python-docx==1.2.0
+nbformat==5.11.1
+nbconvert==7.17.2
