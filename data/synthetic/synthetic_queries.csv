@@ -1,0 +1,451 @@
+text,label
+"My landlord has refused to return my security deposit even though I left the house clean.",housing_tenancy
+"The landlord wants to evict me without giving any notice. Is that allowed?",housing_tenancy
+"I rent a room in Ntinda and the owner increased the rent twice this year.",housing_tenancy
+"Our landlord switched off the water and electricity because we were late with rent by one week.",housing_tenancy
+"The roof of the house I am renting leaks badly and the landlord refuses to repair it.",housing_tenancy
+"Can a landlord enter my rented apartment when I am not there?",housing_tenancy
+"I paid six months rent in advance and now the landlord says I must leave after three months.",housing_tenancy
+"The caretaker locked my door and kept my things because I owe one month rent.",housing_tenancy
+"we never signed a tenancy agreement, can the landlord still chase me?",housing_tenancy
+"How much notice should a tenant give before moving out of a rented flat?",housing_tenancy
+"My landlord sold the building and the new owner wants all tenants out in two weeks.",housing_tenancy
+"The landlord is keeping my deposit saying the walls need repainting. Is this fair?",housing_tenancy
+"I share a rented house and my housemate stopped paying his part of the rent. Am I liable?",housing_tenancy
+"Landlord refuses to give receipts for the rent I pay every month",housing_tenancy
+"What can I do if my landlord keeps threatening to throw my things outside?",housing_tenancy
+"I want to sublet my rented room while I travel. Do I need the landlord's permission?",housing_tenancy
+"Our rental house has had no working toilet for a month and the landlord ignores us.",housing_tenancy
+"The landlord says the deposit is non refundable but this was never written anywhere.",housing_tenancy
+"Can my landlord increase rent in the middle of a one year lease?",housing_tenancy
+"The person I rent from wants me to pay for repairs to the fence that I did not damage.",housing_tenancy
+"I was renting a shop space and the landlord changed the padlocks without telling me.",housing_tenancy
+"How do I get back my rent advance after the landlord cancelled the lease?",housing_tenancy
+"My tenancy ended last month but the landlord is still holding my deposit of 500,000 shillings.",housing_tenancy
+"Is a verbal rental agreement valid if the landlord now denies it?",housing_tenancy
+"The landlord wants to raise the rent by half because the dollar rate changed.",housing_tenancy
+"Mould is growing in the bedroom of my rented flat and my child keeps getting sick.",housing_tenancy
+"The landlord's son keeps coming to the house at night demanding rent which is not yet due.",housing_tenancy
+"Can I withhold rent until the landlord fixes the broken windows?",housing_tenancy
+"I received an eviction letter today giving me three days to vacate.",housing_tenancy
+"We are students renting a hostel room and the hostel owner kept our deposits at the end of semester.",housing_tenancy
+"The landlord refuses to return my deposit and has stopped picking my calls",housing_tenancy
+"What are my rights as a tenant if the landlord wants to renovate while I live there?",housing_tenancy
+"The landlord is charging me for garbage collection that was supposed to be included in the rent.",housing_tenancy
+"I signed a lease for two years but I got a job in another town. Can I leave early?",housing_tenancy
+"Our landlord died and his children are asking us to pay rent to them instead.",housing_tenancy
+"The property manager wants a new deposit every year when we renew the rental agreement.",housing_tenancy
+"My landlord accuses me of damaging the floor but it was already cracked when I moved in.",housing_tenancy
+"Can the landlord refuse to rent to me because I have children?",housing_tenancy
+"I rent a house in Mbarara and the landlord took my television as payment for arrears.",housing_tenancy
+"How do I complain about a landlord who refuses to maintain a rented house?",housing_tenancy
+"The landlord has told me to vacate because his relative needs the house.",housing_tenancy
+"I paid rent through mobile money but the landlord claims he never received it.",housing_tenancy
+"Is it legal for a landlord to demand one year of rent upfront?",housing_tenancy
+"The apartment I rent was flooded and the landlord says I must pay for the damage.",housing_tenancy
+"we have been renting for 5 years and now the landlord wants to evict us without a reason",housing_tenancy
+"The landlord keeps entering the compound and reading our electricity meter and charging us extra.",housing_tenancy
+"What should be included in a tenancy agreement before I move into a house?",housing_tenancy
+"My landlord refuses to let me leave unless I pay rent for the remaining months of the lease.",housing_tenancy
+"The landlord kept my deposit claiming the house was dirty, but I have photos showing it was clean.",housing_tenancy
+"Can I be evicted from my rented home while I am in hospital?",housing_tenancy
+"My employer has not paid my salary for three months.",employment_labour
+"I was dismissed from work without any reason. What can I do?",employment_labour
+"My boss deducts money from my wages every month and does not explain why.",employment_labour
+"I worked as a casual labourer at a construction site and they refused to pay my last two weeks.",employment_labour
+"Am I entitled to maternity leave if I have only worked for the company for six months?",employment_labour
+"My employer refuses to give me a written contract after one year of work.",employment_labour
+"The supervisor shouts at me and insults me in front of other workers every day.",employment_labour
+"I was told to resign or be fired after I reported that my manager was stealing.",employment_labour
+"Do I get paid for working on public holidays?",employment_labour
+"My employer is not remitting my NSSF contributions even though they deduct them from my salary.",employment_labour
+"I work as a housemaid and my employer has not paid me for four months.",employment_labour
+"The company terminated my contract by text message. Is that a proper dismissal?",employment_labour
+"How many hours a week can my employer make me work without overtime pay?",employment_labour
+"I was injured at the factory and the employer refuses to pay for my treatment.",employment_labour
+"My employer wants me to sign a new contract with a lower salary or leave.",employment_labour
+"I was suspended from work without pay for two months while they investigate.",employment_labour
+"Can my employer refuse to give me my certificate of service after I resign?",employment_labour
+"They laid off half the staff and did not pay any terminal benefits.",employment_labour
+"My manager keeps making sexual comments and threatening my job if I complain.",employment_labour
+"I am a teacher at a private school and the director has not paid us for the whole term.",employment_labour
+"what happens if I leave my job without giving one month notice",employment_labour
+"The employer promised a bonus in my contract but now refuses to pay it.",employment_labour
+"I was dismissed because I was pregnant. Is that allowed?",employment_labour
+"My workplace has no safety equipment and workers keep getting hurt.",employment_labour
+"The company changed my job title and duties without asking me.",employment_labour
+"My employer is holding my academic documents and refuses to return them until I pay back training costs.",employment_labour
+"I worked overtime every weekend for a year and was never paid for it.",employment_labour
+"How do I calculate the severance pay owed to me after redundancy?",employment_labour
+"My boss pays me less than my male colleague for the same work.",employment_labour
+"I was fired for joining a workers union.",employment_labour
+"My employer says I am a contractor, not an employee, so I have no leave days. Is that right?",employment_labour
+"The security company I work for makes us work 12 hour shifts with no day off.",employment_labour
+"The restaurant owner refuses to pay me for the days I was sick.",employment_labour
+"My employment contract has expired but they keep me working without a new one.",employment_labour
+"Can my employer read my private messages on my work phone?",employment_labour
+"I was accused of theft at work and dismissed without a hearing.",employment_labour
+"The NGO I worked for closed and nobody has paid us our final salaries.",employment_labour
+"Where do I report an employer who refuses to pay wages?",employment_labour
+"My boss wants me to work during my annual leave without extra pay.",employment_labour
+"I have been on probation for over a year. Can they keep extending it?",employment_labour
+"The farm owner pays us in food instead of money. Is that legal?",employment_labour
+"I resigned but the company refuses to pay my accumulated leave days.",employment_labour
+"Unpaid wages for 2 months, the employer keeps saying next week",employment_labour
+"The hotel I work in deducts money from our pay for every broken glass.",employment_labour
+"My employer reduced my salary because of the economic situation without consulting me.",employment_labour
+"I was demoted after taking sick leave for an operation.",employment_labour
+"Can a company force me to retire early?",employment_labour
+"My employer refuses to let me take paternity leave after my wife gave birth.",employment_labour
+"The recruitment agency that sent me to work abroad has not paid my salary.",employment_labour
+"I was dismissed after ten years of service and given nothing.",employment_labour
+"How do I register a small business in Kampala?",business_commercial
+"What documents do I need to register a company with URSB?",business_commercial
+"My business partner is withdrawing money from the business account without telling me.",business_commercial
+"Do I need a trading licence to run a small shop from my home?",business_commercial
+"How do I change my business from a sole proprietorship to a limited company?",business_commercial
+"What is the difference between registering a business name and registering a company?",business_commercial
+"My partner and I want to end our partnership. How do we share the business assets?",business_commercial
+"Can a foreigner own a company in Uganda?",business_commercial
+"How do I register a trademark for my brand of juice?",business_commercial
+"We started a savings group and want to register it officially. What are the steps?",business_commercial
+"A shareholder in our company wants to sell his shares to an outsider. Can we stop him?",business_commercial
+"How do I close down a company that is no longer operating?",business_commercial
+"I want to open a restaurant. Which permits and licences do I need?",business_commercial
+"Can I use my personal name as my business name?",business_commercial
+"Another company is using a business name very similar to mine. What can I do?",business_commercial
+"What are the duties of a company director?",business_commercial
+"How do I write a partnership agreement for a small business with my cousin?",business_commercial
+"Our company has not filed annual returns for three years. What happens now?",business_commercial
+"I want to start an online shop. Do I need to register it?",business_commercial
+"How do I register a non profit organisation?",business_commercial
+"My co-founder left the startup but still owns half of the shares.",business_commercial
+"Do small businesses need to register for tax?",business_commercial
+"What is needed to import goods for resale in my shop?",business_commercial
+"How can I protect my business idea before I present it to investors?",business_commercial
+"A supplier is refusing to deliver goods that my company already paid for.",business_commercial
+"How do I add a new director to my company?",business_commercial
+"I want to franchise my bakery. What legal steps are needed?",business_commercial
+"Can a company be registered with only one shareholder?",business_commercial
+"What are the steps to get a business name reserved?",business_commercial
+"My business was registered by an agent who disappeared with the certificate.",business_commercial
+"How do I register a boda boda transport business?",business_commercial
+"The other directors held a meeting without informing me and removed me from the board.",business_commercial
+"What licence do I need to sell alcohol in my bar?",business_commercial
+"How do I register a company for exporting coffee?",business_commercial
+"We want to bring in an investor. How do we issue new shares?",business_commercial
+"Is it necessary to have a company seal?",business_commercial
+"How can I check if a company I want to do business with is properly registered?",business_commercial
+"my partner registered the business only in his name though we both contributed capital",business_commercial
+"What is the process of registering a cooperative society?",business_commercial
+"How do I transfer ownership of my business to my son?",business_commercial
+"Our company wants to merge with a competitor. What approvals are needed?",business_commercial
+"Can the government close my business for operating without a licence?",business_commercial
+"How do I register a limited liability partnership?",business_commercial
+"What records must a small company keep by law?",business_commercial
+"I want to start a mobile money agent business. What do I need?",business_commercial
+"Can I run two businesses under one registration?",business_commercial
+"How do I register a salon business in Jinja?",business_commercial
+"Our company secretary resigned. Who files the company documents now?",business_commercial
+"What happens to my business if my partner dies?",business_commercial
+"How much does it cost to register a private limited company?",business_commercial
+"A neighbour has moved the boundary marks onto my land.",land_property
+"How can I check that a land title is genuine before buying?",land_property
+"I bought land from a man who has now sold the same plot to someone else.",land_property
+"Someone has built a house on my plot while I was away.",land_property
+"How do I get a land title for customary land?",land_property
+"The seller received full payment for the land but refuses to transfer the title to my name.",land_property
+"There is a caveat on the land I want to buy. What does that mean?",land_property
+"The government wants to take part of my land for a road. Will I be compensated?",land_property
+"Squatters have been living on my land for years and refuse to leave.",land_property
+"How do I subdivide my land so that I can sell part of it?",land_property
+"I lost my land title. How can I get a replacement?",land_property
+"My neighbour blocked the only access road to my land.",land_property
+"I bought a kibanja and the landlord of the mailo land is demanding money from me.",land_property
+"Can a married man sell family land without his wife's consent?",land_property
+"Someone forged my signature and transferred my land title into his name.",land_property
+"The surveyor says my plot is smaller than what is written in the sale agreement.",land_property
+"What should a land sale agreement contain?",land_property
+"I want to buy land from a clan. Who has to sign the agreement?",land_property
+"A company is mining on my land without my permission.",land_property
+"How do I lodge a caveat to protect my interest in a piece of land?",land_property
+"My father gave me land but never transferred the title before he became sick.",land_property
+"The local council chairman sold part of the community land.",land_property
+"Is it safe to buy land that has a mortgage on it?",land_property
+"Our neighbour cut down trees on our land claiming the boundary is ours.",land_property
+"How long does it take to transfer a land title after purchase?",land_property
+"I paid a deposit for land but the seller changed his mind and refuses to refund me.",land_property
+"The bank wants to sell my house because I failed to pay the mortgage.",land_property
+"A developer is building a wall that blocks the drainage from my plot.",land_property
+"How do I convert leasehold land to freehold?",land_property
+"Someone fenced off my land and put up a sign saying it is not for sale.",land_property
+"I own a plot jointly with my brother and he wants to sell without my approval.",land_property
+"Can I build a house on land I bought with only a sale agreement and no title?",land_property
+"The land registry says there are two titles for the same plot.",land_property
+"My neighbour's building is extending into my land by two metres.",land_property
+"we bought land in Wakiso and later found out the seller was not the real owner",land_property
+"How do I register land that I bought many years ago without documents?",land_property
+"The government gazetted my land as a forest reserve.",land_property
+"What is the procedure for buying land in a different district?",land_property
+"A family is grazing cattle on my farm and destroying crops, claiming the land is theirs.",land_property
+"How can I find out who owns a piece of land?",land_property
+"The seller of the land died before signing the transfer forms.",land_property
+"Can my land be sold by auction without my knowledge?",land_property
+"I want to give land to my daughter as a gift. How do I transfer it?",land_property
+"There is a dispute about where the boundary between my land and the school land is.",land_property
+"The person I bought land from is now claiming I did not pay the full amount.",land_property
+"How do I stop a neighbour from building on the road reserve next to my land?",land_property
+"The land board allocated my land to another person.",land_property
+"What are my rights as a lawful occupant on registered land?",land_property
+"Someone is cultivating crops on my unused land without permission.",land_property
+"I bought an apartment and the developer has not given me the title after two years.",land_property
+"My husband refuses to support our children after we separated.",family
+"What is the process for getting a divorce?",family
+"How is custody of children decided after separation?",family
+"My wife left with the children and will not let me see them.",family
+"Can I get a divorce if my husband refuses to sign?",family
+"The father of my child denies that the child is his. How can I prove paternity?",family
+"How much child maintenance should a father pay?",family
+"I want to adopt my late sister's children. What is the process?",family
+"My husband married another wife without telling me. What are my rights?",family
+"We were married in church. Can we divorce in a local court?",family
+"My husband beats me and threatens to kill me if I leave.",family
+"How do we register a customary marriage?",family
+"Can a mother take the children abroad without the father's consent?",family
+"My ex-husband stopped paying school fees for our children.",family
+"What happens to property we bought together if we divorce?",family
+"I have been cohabiting with my partner for ten years. Do I have rights to the house?",family
+"How old must someone be to get married?",family
+"My parents are forcing me to marry a man I do not love.",family
+"Can grandparents get custody of their grandchildren?",family
+"The bride price was paid but now the marriage has broken down. Must it be returned?",family
+"I want to change the surname of my child after divorce.",family
+"My husband refuses to let me work and controls all the money.",family
+"How do I apply for a protection order against my partner?",family
+"My partner abandoned me while I was pregnant. Can I claim support?",family
+"Is a marriage valid if it was not registered?",family
+"How long does a divorce case usually take?",family
+"My ex-wife is turning the children against me.",family
+"Can I get legal separation instead of divorce?",family
+"My stepfather mistreats my younger siblings and our mother does nothing.",family
+"How do I get a birth certificate for my child if the father refuses to sign?",family
+"we separated and my husband took all the household property",family
+"Can a father demand custody of a child under seven years?",family
+"I want to marry a foreigner. What documents do we need?",family
+"My husband has been away for five years without contact. Can I remarry?",family
+"How do I enforce a child maintenance order that the father ignores?",family
+"Can a child choose which parent to live with?",family
+"I suspect my husband is hiding income to avoid paying maintenance.",family
+"Our parents disowned us after we married outside our tribe.",family
+"I adopted a child informally. How do I make it legal?",family
+"Can my mother in law chase me from our matrimonial home?",family
+"My teenage daughter ran away to live with an older man.",family
+"Is polygamy allowed if I married under civil law?",family
+"How do I get guardianship of my nephew whose parents died?",family
+"My husband refuses to pay hospital bills for our sick child.",family
+"Can a prenuptial agreement be enforced?",family
+"My ex is preventing me from seeing my child on the agreed days.",family
+"I want to annul my marriage because it was never consummated.",family
+"Who keeps the matrimonial home after divorce?",family
+"My partner threatens to take the baby away if I report his abuse.",family
+"Can I get maintenance from my husband while we are still married but living apart?",family
+"My father died without a will. How is his property shared?",succession_inheritance
+"My uncle took over my late mother's house and chased us away.",succession_inheritance
+"How do I apply for letters of administration?",succession_inheritance
+"How do I write a valid will?",succession_inheritance
+"My late husband's relatives want to take all our property.",succession_inheritance
+"Can a widow inherit her husband's land?",succession_inheritance
+"My brother is the executor of our father's will but refuses to distribute the estate.",succession_inheritance
+"Are children born outside marriage entitled to inherit from their father?",succession_inheritance
+"My father left a will giving everything to his second wife. Can we challenge it?",succession_inheritance
+"What happens to a person's bank account when they die?",succession_inheritance
+"The clan appointed an heir who is selling all of my late father's property.",succession_inheritance
+"Do I need a lawyer to make a will?",succession_inheritance
+"How long does it take to get letters of administration?",succession_inheritance
+"My grandmother died and my aunts are fighting over her house.",succession_inheritance
+"Can I be disinherited by my parents?",succession_inheritance
+"The administrator of my late father's estate is using the rent money for himself.",succession_inheritance
+"How is the estate shared if a man had two wives?",succession_inheritance
+"My late father's pension is being collected by someone who is not family.",succession_inheritance
+"Can a will be changed after it has been signed?",succession_inheritance
+"My stepmother is refusing to share my late father's property with us.",succession_inheritance
+"What is a certificate of no objection and when is it needed?",succession_inheritance
+"My father died owing money to the bank. Do we have to pay his debts?",succession_inheritance
+"How do I find out whether my late mother left a will?",succession_inheritance
+"The heir sold the family land without consulting the other beneficiaries.",succession_inheritance
+"Can a woman be appointed as administrator of her late father's estate?",succession_inheritance
+"What should I do with my late husband's shares in his company?",succession_inheritance
+"My brother forged our father's will after he died.",succession_inheritance
+"How do I transfer my late father's land title into my name?",succession_inheritance
+"Who inherits if someone dies with no children and no spouse?",succession_inheritance
+"My late wife's family took the car registered in her name.",succession_inheritance
+"Can I leave all my property to a charity in my will?",succession_inheritance
+"The administrator died before finishing distributing the estate.",succession_inheritance
+"my father passed away and my uncles say girls cannot inherit land",succession_inheritance
+"How do we share the property of our parents who both died in an accident?",succession_inheritance
+"What is the role of the Administrator General when someone dies?",succession_inheritance
+"My late partner and I were not married. Can I inherit his house?",succession_inheritance
+"The bank refuses to release my late father's savings to us.",succession_inheritance
+"Can a minor inherit property, and who manages it until they grow up?",succession_inheritance
+"We found two different wills written by our late grandfather.",succession_inheritance
+"How do I revoke letters of administration given to the wrong person?",succession_inheritance
+"My father's business is being run by his friend since he died and we get nothing.",succession_inheritance
+"Should I put my wishes for my children's guardian in my will?",succession_inheritance
+"The clan leaders want to hold a meeting to share my late husband's property.",succession_inheritance
+"How is an estate distributed if the deceased had no will and many children?",succession_inheritance
+"My late mother's insurance money was paid to my uncle.",succession_inheritance
+"Can an executor also be a beneficiary of the will?",succession_inheritance
+"My aunt is living in my late father's house and refuses to leave.",succession_inheritance
+"What documents are needed to process an estate after death?",succession_inheritance
+"My late husband's brother wants to inherit me as his wife together with the property.",succession_inheritance
+"How do I contest a will that I believe was made under pressure?",succession_inheritance
+"The police arrested my brother and he has not been charged.",criminal
+"Someone stole my phone and threatened me with a knife.",criminal
+"How do I apply for bail for my son?",criminal
+"I have been accused of theft but I did not do it.",criminal
+"The police are asking for money before they release my husband.",criminal
+"What should I do if I am arrested?",criminal
+"My neighbour assaulted me and the police are not taking action.",criminal
+"How long can the police keep someone in custody before taking them to court?",criminal
+"Someone is threatening to post my private photos online unless I pay.",criminal
+"I was defrauded by a person pretending to sell me a car.",criminal
+"My son has been charged with defilement. What happens next?",criminal
+"How do I report a crime when I fear the suspect?",criminal
+"I was caught driving under the influence. What penalties do I face?",criminal
+"Someone broke into my house at night and stole property.",criminal
+"Can I be arrested for a debt I owe?",criminal
+"I witnessed a murder and I am scared to testify.",criminal
+"My cousin was sentenced to prison. Can he appeal?",criminal
+"The police searched my house without a warrant.",criminal
+"Someone hacked my mobile money account and withdrew all my money.",criminal
+"How do I get a police bond for a relative who was arrested?",criminal
+"I was raped and I don't know where to report.",criminal
+"My child was kidnapped by her father's relatives.",criminal
+"I received a summons to appear in a criminal court. What should I do?",criminal
+"A boda boda rider knocked me and ran away.",criminal
+"Can a criminal record be removed?",criminal
+"The police are holding my motorcycle as evidence. How can I get it back?",criminal
+"Someone forged my signature on a cheque.",criminal
+"my brother was beaten by security officers during arrest",criminal
+"What is the difference between a misdemeanour and a felony?",criminal
+"I am being blackmailed by an ex-girlfriend.",criminal
+"Someone is spreading false accusations about me on social media and threatening my life.",criminal
+"Can I be detained for not having a national ID?",criminal
+"My shop was robbed by armed men last night.",criminal
+"How can I withdraw a case I reported to the police?",criminal
+"My sister is being held at a police station far from home and we cannot visit her.",criminal
+"Someone sold me fake gold and disappeared with my money.",criminal
+"What happens at a plea hearing?",criminal
+"The police confiscated my phone and refused to give a reason.",criminal
+"My son was arrested at a protest. What are his rights?",criminal
+"Someone poisoned my cows. Can I report this to police?",criminal
+"How can a victim of domestic violence open a criminal case?",criminal
+"Can I be charged for something I posted on social media?",criminal
+"A man touched my daughter inappropriately on the way to school.",criminal
+"I was falsely arrested and held for three days. Can I sue the police?",criminal
+"My employee stole money from the till and ran away.",criminal
+"How long does a criminal case usually take to be heard?",criminal
+"I was attacked by robbers and my attacker is now out on bail.",criminal
+"Can an accused person refuse to answer police questions?",criminal
+"My husband is in prison and I need to visit him with documents.",criminal
+"Is self defence a valid reason if I injured a thief who broke in?",criminal
+"The shop refused to refund a phone that stopped working after a week.",consumer_contract
+"A friend borrowed money and refuses to pay it back.",consumer_contract
+"I paid a carpenter to make furniture and he disappeared with my deposit.",consumer_contract
+"The money lender is charging me interest that is more than the loan.",consumer_contract
+"I bought a fridge on hire purchase and the shop repossessed it after one missed payment.",consumer_contract
+"A builder did very poor work on my house and refuses to fix it.",consumer_contract
+"The online seller sent me the wrong item and will not reply.",consumer_contract
+"Can a contract be valid if it was only agreed on WhatsApp?",consumer_contract
+"The insurance company refuses to pay my claim after my car was damaged.",consumer_contract
+"I signed a loan agreement without reading it and now the terms are unfair.",consumer_contract
+"The garage repaired my car but charged double the agreed price.",consumer_contract
+"A tour company cancelled our trip and refuses to refund us.",consumer_contract
+"I guaranteed a loan for my friend and now the bank is coming after me.",consumer_contract
+"The school refused to refund fees after my child left in the first week.",consumer_contract
+"The airline lost my luggage and is offering very little compensation.",consumer_contract
+"How do I write a demand letter for money someone owes me?",consumer_contract
+"I bought a second hand car and the seller hid that the engine was faulty.",consumer_contract
+"The digital lending app is calling my contacts and shaming me over a loan.",consumer_contract
+"Can I cancel a contract I signed yesterday?",consumer_contract
+"The supermarket sold me expired milk and my child got sick.",consumer_contract
+"The internet provider keeps charging me after I cancelled the subscription.",consumer_contract
+"I hired a photographer for my wedding and he never delivered the photos.",consumer_contract
+"A customer took goods on credit and refuses to pay.",consumer_contract
+"The SACCO refuses to return my savings after I withdrew my membership.",consumer_contract
+"What can I do if someone breaches a verbal agreement?",consumer_contract
+"The phone I bought has a warranty but the shop refuses to repair it.",consumer_contract
+"I paid for a plot of land through an agent, but the agent took the money. Is this a contract issue or fraud?",consumer_contract
+"The bank deducted charges from my account that I never agreed to.",consumer_contract
+"The wedding venue cancelled one week before the event and kept our deposit.",consumer_contract
+"Can a debt collector come to my workplace?",consumer_contract
+"My friend sold me a motorcycle but refuses to hand over the logbook.",consumer_contract
+"I ordered building materials and the supplier delivered less than what I paid for.",consumer_contract
+"The solar company installed a system that never worked.",consumer_contract
+"How long do I have to sue someone for an unpaid debt?",consumer_contract
+"The mechanic is refusing to return my car until I pay for repairs I did not authorise.",consumer_contract
+"the gym took my annual fee and then closed down",consumer_contract
+"I want to sue a company for selling me a defective laptop.",consumer_contract
+"A contractor abandoned the building project halfway and took the money.",consumer_contract
+"Is a contract signed by a 16 year old valid?",consumer_contract
+"The water utility sent me a huge bill even though my meter is broken.",consumer_contract
+"The courier company lost my parcel and will not compensate me.",consumer_contract
+"I lent my brother-in-law money with a written agreement and he refuses to pay.",consumer_contract
+"The car dealer refuses to give me the documents for the car I fully paid for.",consumer_contract
+"Can a shop refuse to give a receipt?",consumer_contract
+"The event organiser cancelled the concert and refuses to refund tickets.",consumer_contract
+"My microfinance loan has hidden fees that were never explained to me.",consumer_contract
+"A client refuses to pay me for the website I designed for him.",consumer_contract
+"The hospital overcharged me for treatment that was supposed to be covered.",consumer_contract
+"I signed up for a free trial and now they are charging me monthly.",consumer_contract
+"The tailor ruined the fabric I gave him and refuses to pay for it.",consumer_contract
+"What is the weather in Entebbe tomorrow?",other_out_of_scope
+"Give me a recipe for rolex.",other_out_of_scope
+"Who won the football match last night?",other_out_of_scope
+"How do I treat malaria at home?",other_out_of_scope
+"Can you help me write a love poem?",other_out_of_scope
+"What is the capital city of Kenya?",other_out_of_scope
+"How do I reset my phone password?",other_out_of_scope
+"Tell me a joke.",other_out_of_scope
+"What is the best fertiliser for maize?",other_out_of_scope
+"How many calories are in a banana?",other_out_of_scope
+"hello",other_out_of_scope
+"What time is it in London now?",other_out_of_scope
+"Recommend a good movie to watch this weekend.",other_out_of_scope
+"How do I make my hair grow faster?",other_out_of_scope
+"What is the exchange rate of the dollar today?",other_out_of_scope
+"Explain photosynthesis in simple words.",other_out_of_scope
+"How do I learn to drive a manual car?",other_out_of_scope
+"Which phone has the best camera?",other_out_of_scope
+"Write a birthday message for my mother.",other_out_of_scope
+"How do I cook matooke?",other_out_of_scope
+"What are the symptoms of typhoid?",other_out_of_scope
+"How do I lose weight quickly?",other_out_of_scope
+"Who is the richest person in the world?",other_out_of_scope
+"How do I start learning Python programming?",other_out_of_scope
+"What is the distance from Kampala to Gulu?",other_out_of_scope
+"thanks for your help",other_out_of_scope
+"Can you translate good morning into Luganda?",other_out_of_scope
+"What should I plant during the rainy season?",other_out_of_scope
+"How do I fix a flat bicycle tyre?",other_out_of_scope
+"Which university is best for engineering?",other_out_of_scope
+"How do I make chapati soft?",other_out_of_scope
+"What is the meaning of life?",other_out_of_scope
+"Help me with my maths homework on fractions.",other_out_of_scope
+"How do I take care of a puppy?",other_out_of_scope
+"What are good names for a baby girl?",other_out_of_scope
+"How can I improve my CV for a banking job?",other_out_of_scope
+"What is the price of a bag of cement?",other_out_of_scope
+"Which is better, Android or iPhone?",other_out_of_scope
+"How do I remove a stain from a white shirt?",other_out_of_scope
+"Tell me about the history of the Buganda kingdom.",other_out_of_scope
+"How do I grow tomatoes in a small garden?",other_out_of_scope
+"What is a healthy breakfast for children?",other_out_of_scope
+"Can you play some music?",other_out_of_scope
+"How do I stop snoring?",other_out_of_scope
+"What is the best time to visit Murchison Falls?",other_out_of_scope
+"how r u today",other_out_of_scope
+"Write an essay about climate change.",other_out_of_scope
+"How do I make a good first impression at an interview?",other_out_of_scope
+"What is the population of Uganda?",other_out_of_scope
+"Which bus goes to Mbale in the morning?",other_out_of_scope

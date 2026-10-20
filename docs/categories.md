@@ -12,8 +12,8 @@ The classifier assigns **one** category to each user query. There are **8 legal 
   later week as a second layer once Kimuntu's priorities and data are known.
 
 > These categories are a team proposal. Kimuntu Power Inc. has not yet confirmed jurisdictions or
-> priority categories. The example queries below are illustrative and were written by the team.
-> They are not real user data.
+> priority categories. The example queries below are illustrative and were written for this
+> project with AI assistance. They are not real user data.
 
 | # | Label | Definition | Example queries | Basis |
 |---|---|---|---|---|
